@@ -6,8 +6,20 @@ a=10;
 b=20;
 c=a+b;
 
-  //feature-B changes
+
+ //feature-B changes
 {
 printf('hello world');
 scanf(%c);
 }
+
+include <stdio.h>
+void main
+{
+
+ int a,b,c,d,e;
+ a=20;
+ b=20;
+ c=a+b;
+}
+
