@@ -4,3 +4,5 @@ int a,b,c;
   c=20;
   d=a+b+c;
 }
+
+#include <stdio.h>
